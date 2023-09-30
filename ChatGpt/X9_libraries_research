@@ -1,0 +1,9 @@
+#Zadanie:
+1. Wybierz dowolną bibliotekę języka Python
+2. Dodaj do listy  4 alternatywne bilblioteki
+3. Porównaj biblioteki biorąc pod uwagę następujące parametry:
+   Performance, Features, Popularity, Customizability, Compatibility
+   Każdemu parametrowi przyporządkuj liczbę od 1 do 5
+   Dla każdej biblioteki zsumuj wynik i sumę przedstaw w ostatniej kolumnie tabeli.
+   Następnie stwórz ranking w postaci tabeli i podsumowanie 
+   Posortuj dane po ostatecznym wyniku.

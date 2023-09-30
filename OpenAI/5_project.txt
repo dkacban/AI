@@ -1,0 +1,9 @@
+Założenia projektu:
+
+1. Aplikacja webowa, funkcjonalność wykorzystująca API OpenAI
+2. Wszystkie zapytania i odpowiedzi z API są przechowywane w bazie Elasticsearch
+3. Klasy możesz tworzyć za pomocą Github Copilot Chat
+4. Wygeneruj testy jednostkowe za pomocą Github Copilot chat
+5. Stwórz diagramy za pomocą Github Copilot Chat i Mermaid
+- Diagram Klas
+- Flow Chart
